@@ -4,8 +4,11 @@
 # but you can also edit it by hand.
 
 autopublish
-insecure
 preserve-inputs
 codemirror
 bootstrap
 ace
+router
+accounts-github
+accounts-ui
+insecure

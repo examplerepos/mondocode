@@ -1,0 +1,15 @@
+<template name="dashboard">
+<h1>Here our projects will live</h1>
+<input type="text" id="new-project">
+<ul>
+{{#each projects}}
+	{{> tile}}
+{{/each}}
+</ul>
+</template>
+
+<template name="tile">
+	<li>
+		{{name}}
+	</li>
+</template>

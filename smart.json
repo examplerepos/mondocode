@@ -5,7 +5,8 @@
   },
   "packages": {
     "ace": {
-    	   "path" : "/Users/JayOheN/Repositories/meteor-ace"
-	   }
+      "path": "/Users/JayOheN/Repositories/meteor-ace"
+    },
+    "router": {}
   }
 }
